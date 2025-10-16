@@ -10,7 +10,7 @@
 - **Machine Learning:** Scikit-learn, Pandas, NumPy  
 
 **Features**  
-1.Predicts post popularity with high accuracy   
-2.User-friendly web interface  
-3.Lightweight and fast ML model  
-4.Extendable for future social media analytics  
+- Predicts post popularity with high accuracy
+- User-friendly web interface  
+- Lightweight and fast ML model  
+- Extendable for future social media analytics  
