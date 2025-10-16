@@ -1,4 +1,4 @@
-📊Predicting-Popular-Posts Using Machine Learning
+#Predicting-Popular-Posts Using Machine Learning
 🌟 Overview
 -This project predicts the popularity of social media posts using engagement metrics such as likes, comments, followers, and hashtags.
 -A Random Forest Classifier model is trained to classify posts as having a High or Low chance of becoming popular.
